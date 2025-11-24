@@ -135,4 +135,4 @@ Where n(x) is the standard normal PDF.
 - Optimized: 38.4% RNG, 61.6% computation
 - RNG optimization had biggest impact, reducing it from dominant bottleneck to minor component
 
-See [Performance.md](Performance.md) for detailed benchmarks and [SIMD.MD](SIMD.MD) for implementation details.
+See [PERFORMANCE.md](PERFORMANCE.md) for detailed benchmarks and [SIMD.MD](SIMD.MD) for implementation details.
